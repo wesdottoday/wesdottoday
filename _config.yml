@@ -29,3 +29,6 @@ collections:
   content:
     output: true
     sort_by: date
+
+include:
+  - .well-known
